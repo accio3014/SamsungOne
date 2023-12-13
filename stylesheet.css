@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'samsungone 200';
+    src: url('samsungone_200.eot');
+    src: local('samsungone 200'), local('samsungone_200'),
+        url('samsungone_200.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_200.woff2') format('woff2'),
+        url('samsungone_200.woff') format('woff'),
+        url('samsungone_200.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 200C';
+    src: url('samsungone_200C.eot');
+    src: local('samsungone 200C'), local('samsungone_200C'),
+        url('samsungone_200C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_200C.woff2') format('woff2'),
+        url('samsungone_200C.woff') format('woff'),
+        url('samsungone_200C.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 300';
+    src: url('samsungone_300.eot');
+    src: local('samsungone 300'), local('samsungone_300'),
+        url('samsungone_300.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_300.woff2') format('woff2'),
+        url('samsungone_300.woff') format('woff'),
+        url('samsungone_300.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 400';
+    src: url('samsungone_400.eot');
+    src: local('samsungone 400'), local('samsungone_400'),
+        url('samsungone_400.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_400.woff2') format('woff2'),
+        url('samsungone_400.woff') format('woff'),
+        url('samsungone_400.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 300C';
+    src: url('samsungone_300C.eot');
+    src: local('samsungone 300C'), local('samsungone_300C'),
+        url('samsungone_300C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_300C.woff2') format('woff2'),
+        url('samsungone_300C.woff') format('woff'),
+        url('samsungone_300C.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 400C';
+    src: url('samsungone_400C.eot');
+    src: local('samsungone 400C'), local('samsungone_400C'),
+        url('samsungone_400C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_400C.woff2') format('woff2'),
+        url('samsungone_400C.woff') format('woff'),
+        url('samsungone_400C.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 500';
+    src: url('samsungone_500.eot');
+    src: local('samsungone 500'), local('samsungone_500'),
+        url('samsungone_500.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_500.woff2') format('woff2'),
+        url('samsungone_500.woff') format('woff'),
+        url('samsungone_500.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 500C';
+    src: url('samsungone_500C.eot');
+    src: local('samsungone 500C'), local('samsungone_500C'),
+        url('samsungone_500C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_500C.woff2') format('woff2'),
+        url('samsungone_500C.woff') format('woff'),
+        url('samsungone_500C.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 600';
+    src: url('samsungone_600.eot');
+    src: local('samsungone 600'), local('samsungone_600'),
+        url('samsungone_600.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_600.woff2') format('woff2'),
+        url('samsungone_600.woff') format('woff'),
+        url('samsungone_600.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 600C';
+    src: url('samsungone_600C.eot');
+    src: local('samsungone 600C'), local('samsungone_600C'),
+        url('samsungone_600C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_600C.woff2') format('woff2'),
+        url('samsungone_600C.woff') format('woff'),
+        url('samsungone_600C.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 700';
+    src: url('samsungone_700.eot');
+    src: local('samsungone 700'), local('samsungone_700'),
+        url('samsungone_700.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_700.woff2') format('woff2'),
+        url('samsungone_700.woff') format('woff'),
+        url('samsungone_700.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'samsungone 700C';
+    src: url('samsungone_700C.eot');
+    src: local('samsungone 700C'), local('samsungone_700C'),
+        url('samsungone_700C.eot?#iefix') format('embedded-opentype'),
+        url('samsungone_700C.woff2') format('woff2'),
+        url('samsungone_700C.woff') format('woff'),
+        url('samsungone_700C.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
